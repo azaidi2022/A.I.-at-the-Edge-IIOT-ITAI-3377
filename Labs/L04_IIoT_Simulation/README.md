@@ -8,7 +8,7 @@ Instead of building everything from scratch, this lab used an existing simulatio
 
 ---
 
-## What I Did
+## What Was Done
 
 - Worked with an existing IIoT simulation project
 - Explored how devices communicate within a simulated network
@@ -20,9 +20,9 @@ https://github.com/ethanphaan/iiot_simulation
 
 ---
 
-## What I Learned
+## Lessons to be learned
 
-This lab helped me understand that IIoT systems are more than just individual devices. They are complex systems where many components interact at the same time.
+This lab can help one understand that IIoT systems are more than just individual devices. They are complex systems where many components interact at the same time.
 
 Some key takeaways:
 
