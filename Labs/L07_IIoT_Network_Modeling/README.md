@@ -69,6 +69,6 @@ A more detailed analysis of this system, including deeper modeling and results, 
 
 ## Conclusion
 
-This lab helped me better understand the complexity of IIoT systems and how different factors interact within a network.
+This lab helped me to better understand the complexity of IIoT systems and how different factors interact within a network.
 
 It reinforced the importance of analyzing system behavior, not just building models.
