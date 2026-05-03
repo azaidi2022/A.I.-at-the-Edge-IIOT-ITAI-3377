@@ -4,11 +4,11 @@
 
 The goal of this lab was to apply time-series forecasting techniques to IoT sensor data. The dataset consisted of temperature readings collected over time, which made it suitable for analyzing patterns such as trends and fluctuations.
 
-In this lab, I used Nixtla AutoML to automatically select and train a forecasting model, and then improved performance through feature engineering and evaluation techniques.
+In this lab,Nixtla AutoML was used to automatically select and train a forecasting model, and then improved performance through feature engineering and evaluation techniques.
 
 ---
 
-## What I Did
+## What Was Done
 
 - Loaded and explored a time-series dataset (temperature readings)
 - Cleaned the data by handling missing values and outliers
@@ -22,9 +22,9 @@ In this lab, I used Nixtla AutoML to automatically select and train a forecastin
 
 ---
 
-## What I Learned
+## Lessons to be Learned
 
-This lab helped me understand how machine learning works differently for time-series data compared to regular datasets.
+This lab helps one understand how machine learning works differently for time-series data compared to regular datasets.
 
 Some key takeaways:
 
@@ -33,7 +33,7 @@ Some key takeaways:
 - AutoML tools can simplify model selection, but understanding the data is still critical  
 - Synthetic data generation (VAE) can help improve model generalization  
 
-I also learned that forecasting models need to capture:
+In addition, forecasting models need to capture:
 - Trends  
 - Seasonality  
 - Sudden changes  
@@ -78,6 +78,6 @@ Accurate forecasting helps systems make better decisions based on expected futur
 
 ## Conclusion
 
-This lab strengthened my understanding of time-series modeling and showed how AutoML, feature engineering, and evaluation techniques work together.
+This lab strengthens one's understanding of time-series modeling and showed how AutoML, feature engineering, and evaluation techniques work together.
 
-It also introduced me to generative models like VAEs, which can improve performance by creating additional training data when real data is limited.
+It also served as an introduction to generative models like VAEs, which can improve performance by creating additional training data when real data is limited.
